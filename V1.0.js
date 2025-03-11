@@ -9,7 +9,7 @@
 // @run-at        document-start
 // ==/UserScript==
 
-(function() {
+(function () {
     'use strict';
 
     const links = {
@@ -20,9 +20,18 @@
         'Digit0': 'https://investidor10.com.br/'
     };
 
-    document.addEventListener('keydown', function(event) {
-        if (event.shiftKey && links[event.code] && !event.target.matches('input, textarea, [contenteditable="true"]')) {
+    let isKeyPressed = false;
+
+    document.addEventListener('keydown', function (event) {
+        if (event.shiftKey && !isKeyPressed && links[event.code] && !event.target.matches('input, textarea, [contenteditable="true"]')) {
+            isKeyPressed = true;
             window.open(links[event.code], '_blank');
+        }
+    });
+
+    document.addEventListener('keyup', function (event) {
+        if (event.shiftKey === false) {
+            isKeyPressed = false;
         }
     });
 })();
