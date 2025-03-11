@@ -16,8 +16,8 @@
         'Digit1': 'https://investidor10.com.br/fiis/mxrf11/',
         'Digit2': 'https://investidor10.com.br/fiis/gare11/',
         'Digit3': 'https://www.bancodata.com.br/',
-        'Digit4': 'https://investidor10.com.br/',
-        'Digit5': 'https://br.investing.com/currencies/usd-brl',
+        'Digit4': 'https://br.investing.com/currencies/usd-brl',
+        'Digit0': 'https://investidor10.com.br/'
     };
 
     document.addEventListener('keydown', function(event) {
