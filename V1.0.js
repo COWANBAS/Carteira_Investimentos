@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Checagem dos FIIS
-// @description   Abre as páginas dos FIIS ao pressionar Shift + 1 e Shift + 2
-// @namespace     CowanFISS
+// @description   Abre as páginas dos FIIS e a cotação do dolar.
+// @namespace     CowanFIIS
 // @license       CowBas
 // @version       1.0
 // @author        Cowanbas
