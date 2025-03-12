@@ -20,3 +20,5 @@ Abaixo estão os fundos que compõem a carteira:
 - **Tijolos**: Fundos que investem diretamente em imóveis físicos, como galpões logísticos e imóveis comerciais.
 
   # Renda Fixa
+
+Breve
