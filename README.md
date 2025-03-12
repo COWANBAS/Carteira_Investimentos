@@ -5,4 +5,4 @@
 - MXRF11 - Fundo de papel
 - KNRI11 - Fundo hibrido de laje corporativa quanto galpões lojisticos
 - KNCR11 - Fundo de papel
-- GARE11
+- GARE11 - Fundos em imóveis comerciais
