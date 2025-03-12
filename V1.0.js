@@ -15,8 +15,10 @@
     const links = {
         'Digit1': 'https://investidor10.com.br/fiis/mxrf11/',
         'Digit2': 'https://investidor10.com.br/fiis/gare11/',
-        'Digit3': 'https://br.investing.com/currencies/usd-brl',
-        'Digit0': 'https://investidor10.com.br/'
+        'Digit3': 'https://investidor10.com.br/fiis/xpml11/',
+        'Digit4': 'https://investidor10.com.br/fiis/knri11/',
+        'Digit5': 'https://investidor10.com.br/fiis/kncr11/',
+        'Digit6': 'https://investidor10.com.br/fiis/hglg11/'
     };
 
     let isKeyPressed = false;
