@@ -22,3 +22,8 @@ pie
     title Distribuição dos Fundos de Investimentos Imobiliários (FII)
     "Tijolos" : 4
     "Papeis" : 2
+
+### Categorias de Fundos
+
+- **Papeis**: Fundos que investem principalmente em recebíveis imobiliários, como CRIs e CRAs.
+- **Tijolos**: Fundos que investem diretamente em imóveis físicos, como galpões logísticos e imóveis comerciais.
