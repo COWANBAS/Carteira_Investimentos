@@ -1,4 +1,4 @@
-# Fundos de Investimentos Imobiliários (FII)
+# Carteira de Fundos de Investimentos Imobiliários (FII)
 
 - HGLG11 - Galpões logisticos
 - XPML11 - Fundos de shopping, fundos baseados em alugueis de loja de shoppings
