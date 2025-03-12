@@ -18,3 +18,5 @@ Abaixo estão os fundos que compõem a carteira:
 
 - **Papeis**: Fundos que investem principalmente em recebíveis imobiliários, como CRIs e CRAs.
 - **Tijolos**: Fundos que investem diretamente em imóveis físicos, como galpões logísticos e imóveis comerciais.
+
+  # Renda Fixa
