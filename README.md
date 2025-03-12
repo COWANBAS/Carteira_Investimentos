@@ -13,10 +13,6 @@ Abaixo estão os fundos que compõem a carteira:
 - **KNCR11**: Fundo de papel
 - **GARE11**: Fundos em imóveis comerciais
 
-## Distribuição dos Fundos
-
-A distribuição dos fundos entre as categorias **Papeis** e **Tijolos** pode ser visualizada no gráfico abaixo:
-
 ### Categorias de Fundos
 
 - **Papeis**: Fundos que investem principalmente em recebíveis imobiliários, como CRIs e CRAs.
