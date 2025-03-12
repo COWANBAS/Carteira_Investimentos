@@ -17,12 +17,6 @@ Abaixo estão os fundos que compõem a carteira:
 
 A distribuição dos fundos entre as categorias **Papeis** e **Tijolos** pode ser visualizada no gráfico abaixo:
 
-```mermaid
-pie
-    title Distribuição dos Fundos de Investimentos Imobiliários (FII)
-    "Tijolos" : 4
-    "Papeis" : 2
-
 ### Categorias de Fundos
 
 - **Papeis**: Fundos que investem principalmente em recebíveis imobiliários, como CRIs e CRAs.
