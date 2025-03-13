@@ -1,6 +1,6 @@
-# Carteira de Fundos de Investimentos Imobiliários (FII)
+# Carteira de Fundos de Investimentos Imobiliários e Renda Fixa
 
-Este repositório contém a distribuição dos fundos de investimentos imobiliários (FII) presentes na minha carteira de investimentos.
+Este repositório contém a distribuição dos fundos de investimentos imobiliários (FII) e Renda Fixa presentes na minha carteira de investimentos.
 
 ## Fundos de Investimentos Imobiliários
 
