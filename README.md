@@ -24,3 +24,7 @@ Abaixo estão os fundos que compõem a carteira:
 - **LCI DI LIQUIDEZ 9 MESES**:
 - **CDB MEU PORQUINHO**:
 - **CDB LIQUIDEZ DIARIA**:
+
+# FUNDOS DE INVESTIMENTO
+
+- **INTER BB RENDA FIXA FIC LP**
