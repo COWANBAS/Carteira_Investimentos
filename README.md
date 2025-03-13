@@ -22,8 +22,8 @@ Abaixo estão os fundos que compõem a carteira:
   # Renda Fixa
 
 - **LCI DI LIQUIDEZ 9 MESES**: É uma Letra de Crédito Imobiliário oferecida pelo Banco Inter, com prazo de resgate de 9 meses. Esse investimento é isento de Imposto de Renda, tem baixo risco por ser garantido pelo undo Garantidor de Créditos (FGC) e costuma oferecer rentabilidade atrelada ao CDI. É uma opção segura para quem busca retorno previsível sem tributação.
-- **CDB MEU PORQUINHO**:
-- **CDB LIQUIDEZ DIARIA**:
+- **CDB MEU PORQUINHO**: Apenas para reserva financeira
+- **CDB LIQUIDEZ DIARIA**: Apenas para reserva financeira
 
 # FUNDOS DE INVESTIMENTO
 
