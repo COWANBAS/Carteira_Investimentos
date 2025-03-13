@@ -21,4 +21,6 @@ Abaixo estão os fundos que compõem a carteira:
 
   # Renda Fixa
 
-- **Breve**
+- **LCI DI LIQUIDEZ 9 MESES**:
+- **CDB MEU PORQUINHO**:
+- **CDB LIQUIDEZ DIARIA**:
